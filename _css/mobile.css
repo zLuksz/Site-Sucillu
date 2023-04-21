@@ -1,0 +1,63 @@
+#main {
+    display: block;
+}
+#text h1 {
+    font-size: 25px;
+}
+#text h3 {
+    font-size: 19px;
+}
+#tarefas {
+    display: block;
+}
+.tarefasTopic {
+    padding: 10px;
+}
+#nossaLoja {
+    display: block;
+}
+#nossaLoja h4 {
+    padding: 1px;
+}
+#criador {
+    display: block;
+}
+#historia h2 {
+    font-size: 25px;
+}
+#fotocriador img {
+    width: 25%;
+}
+#contato {
+    display: block;
+}
+
+#app {
+    display: block;
+}
+#btn-download img {
+    width: 50%;
+}
+#footer {
+    display: block;
+    text-align: center;
+}
+#list-footer {
+    display: block;
+    font-size: 25px;
+}
+#list-foooter a {
+    padding: 1px;
+}
+
+#list {
+    display: none;
+}
+#list {
+    display: block;
+    text-align: end;
+}
+#list a {
+    padding: 1px;
+    margin: 10px;
+}
